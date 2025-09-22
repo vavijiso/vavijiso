@@ -33,28 +33,3 @@ Soy perseverante y autodidacta, características que me han permitido desarrolla
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![UX/UI Design](https://img.shields.io/badge/UX/UI_Design-FF6B6B?style=for-the-badge&logo=adobexd&logoColor=white)
 
-## 🚀 Proyectos en Desarrollo
-
-Estoy construyendo mi portafolio con proyectos desafiantes:
-
-- **DulceReserva** 🍰 - Sistema de gestión de reservas con confirmación automática vía WhatsApp.
-- **SongGo** 🎵 - Buscador por palabras clave, reconocimiento de melodías y recomendación artistas similares integrado con APIs de música.
-- **To Do Listo** 📝 - Lista de compras inteligente que reconoce productos mediante fotos y permite integración manual.
-- **HeyPaws** 🐾 - Plataforma de adopción responsable, matching reproductivo y gestión completa de cuidados veterinarios (Demo).
-- **SafePaws** 📍 - Localizador GPS en tiempo real con sistema de reportes para mascotas perdidas, atacadas o abandonadas (Demo).
-- **MagicAssist** 🎓 - Plataforma educativa inclusiva para enseñar áreas de aprendizaje continuo con sistema de recompensas y seguimiento de asistencia (Demo).
-
-## 📫 Conectemos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vavijiso)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.vavijiso@ejemplo.com)
-
-## ⚡ Dato Curioso
-
-Mi background en diseño gráfico me permite abordar los proyectos desde ambas perspectivas: asegurando que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excepcional.
-
----
-
-![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=vavijiso&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vavijiso&layout=compact&theme=radical)
