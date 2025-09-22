@@ -6,7 +6,7 @@ Soy una desarrolladora con base en diseño gráfico, apasionada por crear interf
 
 Soy perseverante y autodidacta, características que me han permitido desarrollar proyectos que abordan problemáticas reales con soluciones innovadoras. Mi objetivo es construir soluciones digitales completas, desde el análisis del problema hasta la implementación final.
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stacks
 
 ### 💻 Lenguajes y Tecnologías
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
