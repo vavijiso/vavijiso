@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Valentina Victoria Jiménez Soto (Vavijiso)
+# ¡Hola! 👋 Soy Valentina (Vavijiso)
 
 **Técnico en Programación | Diseñadora Gráfica | Desarrolladora Full-Stack en Formación**
 
