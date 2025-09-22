@@ -2,9 +2,9 @@
 
 **Técnico en Programación | Diseñadora Gráfica | Desarrolladora Full-Stack en Formación**
 
-Soy una desarrolladora con base en diseño gráfico, apasionada por crear interfaces funcionales y visualmente atractivas. Mi fortaleza está en **identificar problemas y diseñar soluciones efectivas**, abordando cada proyecto con creatividad y enfoque práctico. 
+Soy una desarrolladora con base en diseño gráfico, apasionada por crear interfaces funcionales y visualmente atractivas. Mi fortaleza está en identificar problemas y diseñar soluciones efectivas, abordando cada proyecto con creatividad y enfoque práctico. 
 
-Soy **perseverante y autodidacta**, características que me han permitido desarrollar proyectos que abordan problemáticas reales con soluciones innovadoras. Mi objetivo es construir soluciones digitales completas, desde el análisis del problema hasta la implementación final.
+Soy perseverante y autodidacta, características que me han permitido desarrollar proyectos que abordan problemáticas reales con soluciones innovadoras. Mi objetivo es construir soluciones digitales completas, desde el análisis del problema hasta la implementación final.
 
 ## 🛠️ Stack Tecnológico
 
