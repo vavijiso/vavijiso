@@ -38,7 +38,7 @@ Soy perseverante y autodidacta, características que me han permitido desarrolla
 Estoy construyendo mi portafolio con proyectos desafiantes:
 
 - **DulceReserva** 🍰 - Sistema de gestión de reservas con confirmación automática vía WhatsApp  
-- **SongGo** 🎵 - Buscador por palabras clave, reconocimiento de melodías y recomendación de artistas similares integrado con APIs de música  
+ 
 - **To Do Listo** 📝 - Lista de compras inteligente que reconoce productos mediante fotos y permite integración manual  
 
 
